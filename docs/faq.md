@@ -18,8 +18,3 @@ Follow the steps in the [installation guide](./installation.md).
 
 Yes, the package is designed to be user-friendly with simple function calls. Refer to the [quickstart guide](./quickstart.md) to begin.
 
-
-
-### 4. How do I report issues or contribute to the package?
-
-Please create an issue on our GitHub repository: [GitHub Repo Link]
